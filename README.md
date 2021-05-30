@@ -1,1 +1,7 @@
 # Hackathon1-Task-GithubClone
+
+**To create a GITHUB CLONE** - Create a web app to clone the github application. 
+**With the following Requirements :**
+Create functionality to list the repository names of a user.
+Create functionality to find the user and repository.
+List the files in the repository.
