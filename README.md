@@ -1,4 +1,4 @@
-# Hackathon1-Task-GithubClone
+# Github-profile-search
 
 **To create a GITHUB CLONE** - Create a web app to clone the github application. 
 **With the following Requirements :**
